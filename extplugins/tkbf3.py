@@ -17,7 +17,7 @@
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 #
 
-__version__ = '0.1'
+__version__ = '1.0'
 __author__  = 'Courgette'
 
 from b3.plugin import Plugin

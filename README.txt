@@ -20,3 +20,8 @@ Installation
 <plugin name="tkbf3" />
 
 
+
+Support
+-------
+
+See B3 forums at http://forum.bigbrotherbot.net/plugins-by-courgette/teamkill-bf3-plugin/
